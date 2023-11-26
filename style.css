@@ -1,0 +1,12 @@
+#box{
+    width: 550px;
+    height: 550px;
+    background-color: #f9dfdf;
+    border: 1px solid #f00;
+    padding-top: 71px;
+    padding-left: 95px;
+}
+
+#h3{
+    color: #f00;
+}
